@@ -1,6 +1,6 @@
 # POLIMI Machine Learning Workshop
 
-Empirical workshop on machine learning in POLIMI. 
+Practical workshop on machine learning at [POLIMI](https://www.polimi.it/) in a collaboration with [PMDS](https://polimidatascientists.it/). 
 
 ## Google Colab
 
