@@ -17,3 +17,8 @@ In order to start coding just type in the browser: [colab.new](https://colab.new
 - Loss Functions
 - Over-fitting
 - Ridge & Lasso
+- Parameters & Hyper-parameters
+- Clustering
+- Reproducibility
+- Ensembles
+- Deep Learning
