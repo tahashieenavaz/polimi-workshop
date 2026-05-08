@@ -2,10 +2,8 @@
 
 Empirical workshop on machine learning in POLIMI. 
 
-## Datasets
+## Google Colab
 
-- Insurance Medial Costs was downloaded from [this](https://www.kaggle.com/datasets/mirichoi0218/insurance) link.
+Google Colab (short for Colaboratory) is a free, cloud-based service from Google that allows users to write and execute Python code directly in their browser. It is a hosted version of Jupyter Notebook that requires zero setup, offering free access to powerful computing resources like GPUs (Graphics Processing Units) and TPUs (Tensor Processing Units).
 
-- Spotify dataset was downloaded from [this](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) link.
-
-- Star classification dataset was downloaded from [this](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) link.
+In order to start coding just type in the browser: [colab.new](https://colab.new).
