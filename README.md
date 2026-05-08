@@ -1,4 +1,4 @@
-# POLIMI Machine Learning Workshop
+# Politecnico di Milano Workshop
 
 Practical workshop on machine learning at [POLIMI](https://www.polimi.it/) in a collaboration with [PMDS](https://polimidatascientists.it/). 
 
