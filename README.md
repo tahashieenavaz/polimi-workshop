@@ -1,5 +1,7 @@
 # Politecnico di Milano Workshop
 
+|![with her](./art/beta.jpg)|![with him][./art/alpha.jpg]|
+
 Practical workshop on machine learning at [POLIMI](https://www.polimi.it/) in a collaboration with [PMDS](https://polimidatascientists.it/). 
 
 ## Google Colab
