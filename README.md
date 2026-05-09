@@ -1,6 +1,6 @@
 # Politecnico di Milano Workshop
 
-| <img src="./art/beta.jpg" width="47.5%"> | <img src="./art/alpha.jpg" width="47.5%"> |
+<img src="./art/beta.jpg" width="47.5%"> <img src="./art/alpha.jpg" width="47.5%">
 
 Practical workshop on machine learning at [POLIMI](https://www.polimi.it/) in a collaboration with [PMDS](https://polimidatascientists.it/). 
 
